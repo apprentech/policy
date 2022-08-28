@@ -7,3 +7,4 @@ Apprentech.io Apprentice Policy
 * Priority will be given to apprentices that devote more time, show greater promise, and help their fellow apprentices
 * Humility, respect for others, willingness to learn & teach others, kindness toward others, and continual focus on fostering a growth-orientated environment are ABSOLUTE prerequisites
 * Any behaviour which is deemed unacceptable will be justification for immediate termination of apprenticeship. This may include: threatening behaviour, repeated tardiness, unwillingness to help your fellow practitioners, disruptive or unpleasant behavior
+* This policy is very much a work in progress, and will develop as the program matures
