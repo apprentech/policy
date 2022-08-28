@@ -1,6 +1,6 @@
 Apprentech.io Apprentice Policy
 
-* Apprentices will be paid for contributions made to any startups the directors/trainers are involved in
+* Apprentices will be paid for contributions made to any startups or other businesses that the directors/trainers are involved in
 * All code produced by apprentices, which is of a reasonable quality (decided by quorum of peers), will be open-sourced if not directly related to abovementioned startups
 * All git codebases should be forked into personal repositories, and PRs should be raised against code
 * All code, unless related to abovementioned startups, must be stored within github.com/apprentech/, give explicit recognition to the author, and be appropriately licensed
