@@ -1,5 +1,7 @@
 Apprentech.io Apprentice Policy
+====
 
+```
 * Apprentices will be paid for material contributions made to any startups or other businesses that the directors/trainers are involved in
 * All code produced by apprentices, which is of a reasonable quality (decided by quorum of peers), will be open-sourced if not directly related to abovementioned startups
 * All git codebases should be forked into personal repositories, and PRs should be raised against code
@@ -10,3 +12,4 @@ Apprentech.io Apprentice Policy
 * Apprentices are responsible for insuring any personal equipment that they bring on-site, and the directors/trainers will not be held responsible for any damage caused intentionally, negligently, or otherwise, by any participants to the program
 * Apprentices are invited to share articles or work on our Facebook, LinkedIn or other pages, and are asked to maintain a respectful tone at all times
 * This policy is very much a work in progress, and will develop as the program matures
+```
